@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Web development at Miduniversity of Sweden. 
+- 🌱 I’m currently learning Web development at Mid Swerden University.
 
